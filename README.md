@@ -23,3 +23,12 @@ It is a core Operating System concept often asked in technical interviews.
 ---
 
 ## 📂 Project Structure
+├── src/ # Main source code files
+├── testcases/ # Example input/output files
+├── parser.h # Input parsing helper
+├── main.cpp # Entry point
+├── makefile # For compiling via terminal
+└── README.md # Project documentation
+
+ 
+
